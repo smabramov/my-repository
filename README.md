@@ -33,6 +33,8 @@
    '![Readme](https://github.com/smabramov/my-repository/blob/9263db702c5fb92d332ae9099030f1ce4342a48a/img/Readme.png)'
    
    '![Push](https://github.com/smabramov/my-repository/blob/9263db702c5fb92d332ae9099030f1ce4342a48a/img/Push.png)'
+   
+   'Ссылка''https://github.com/smabramov/my-repository.git'
 
 ### Задание 2
 
@@ -49,6 +51,8 @@
     '![commit and push](https://github.com/smabramov/my-repository/blob/28b8ea0546f633ca283f6b42baf06c25dae2d3d0/img/commit%20and%20push.png)'
 
     '![push 2](https://github.com/smabramov/my-repository/blob/28b8ea0546f633ca283f6b42baf06c25dae2d3d0/img/push%202.png)'
+
+    'Ссылка''https://github.com/smabramov/my-repository.git'   
 
 ### Задание 3
 
