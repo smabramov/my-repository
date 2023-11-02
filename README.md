@@ -33,3 +33,20 @@
    '![Readme](https://github.com/smabramov/my-repository/blob/9263db702c5fb92d332ae9099030f1ce4342a48a/img/Readme.png)'
    
    '![Push](https://github.com/smabramov/my-repository/blob/9263db702c5fb92d332ae9099030f1ce4342a48a/img/Push.png)'
+
+### Задание 2
+
+1. 'Создfk файл .gitignore
+
+    Добавил в  файл .gitignore в следующий коммит git add....
+
+    Написал правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
+    
+    Сделал коммит и пуш'
+   
+    '![.gitignore](https://github.com/smabramov/my-repository/blob/28b8ea0546f633ca283f6b42baf06c25dae2d3d0/img/.gitignore.png)'
+
+    '![commit and push](https://github.com/smabramov/my-repository/blob/28b8ea0546f633ca283f6b42baf06c25dae2d3d0/img/commit%20and%20push.png)'
+
+    '![push 2](https://github.com/smabramov/my-repository/blob/28b8ea0546f633ca283f6b42baf06c25dae2d3d0/img/push%202.png)'
+
