@@ -8,5 +8,5 @@
    '![My repository](https://github.com/smabramov/my-repository/blob/ab09c67ae8805fd32cec8ebd93a9273f857915e1/img/My%20repository.png)'
 3. 'Склонировал репозиторий, используя https протокол'
     ' Команда: git clone https://github.com/smabramov/my-repository.git '
-     
+    '![Clone](https://github.com/smabramov/my-repository/blob/ac7f8ba76b54eaf0529e0021e356bd918cdd726a/img/Clone.png)'     
    
