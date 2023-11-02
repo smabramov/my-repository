@@ -68,19 +68,19 @@
 
     'Network graph''https://github.com/smabramov/my-repository/network'
     
-    '![1]()'
+    '![1](https://github.com/smabramov/my-repository/blob/c43ef3887393c01bab972e2ec582d81b94225f39/img/1.png)'
 
-    '![2]()'
+    '![2](https://github.com/smabramov/my-repository/blob/c43ef3887393c01bab972e2ec582d81b94225f39/img/2.png)'
 
-    '![3]()'
+    '![3](https://github.com/smabramov/my-repository/blob/c43ef3887393c01bab972e2ec582d81b94225f39/img/3.png)'
  
-    '![4]()'
+    '![4](https://github.com/smabramov/my-repository/blob/c43ef3887393c01bab972e2ec582d81b94225f39/img/4.png)'
 
-    '![5]()'
+    '![5](https://github.com/smabramov/my-repository/blob/c43ef3887393c01bab972e2ec582d81b94225f39/img/5.png)'
 
-    '![6]()'
+    '![6](https://github.com/smabramov/my-repository/blob/c43ef3887393c01bab972e2ec582d81b94225f39/img/6.png)'
 
-    '![7]()'
+    '![7](https://github.com/smabramov/my-repository/blob/c43ef3887393c01bab972e2ec582d81b94225f39/img/7.png)'
 
    
 
