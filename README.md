@@ -36,7 +36,7 @@
    
    'Ссылка''https://github.com/smabramov/my-repository/commit/cdd6afba78731d179e5432a77feea11443bed93c'
 
-   '![1](https://github.com/smabramov/my-repository/blob/e1ef525c93e79febddc3e8f336c3e0aebe3cb89f/img/8.png)'
+   '![1](https://github.com/smabramov/my-repository/blob/bbcc5d1fa0ce093d072ed1b4605b633834a2b203/img/1.FLV)'
 
 ### Задание 2
 
