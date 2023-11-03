@@ -34,9 +34,9 @@
    
    '![Push](https://github.com/smabramov/my-repository/blob/9263db702c5fb92d332ae9099030f1ce4342a48a/img/Push.png)'
    
-   'Ссылка''https://github.com/smabramov/my-repository/tree/aa9291566af2a50251c1ae6c9971154396163fd5'
+   'Ссылка''https://github.com/smabramov/my-repository/commit/cdd6afba78731d179e5432a77feea11443bed93c'
 
-   '![8](https://github.com/smabramov/my-repository/blob/e1ef525c93e79febddc3e8f336c3e0aebe3cb89f/img/8.png)'
+   '![1](https://github.com/smabramov/my-repository/blob/e1ef525c93e79febddc3e8f336c3e0aebe3cb89f/img/8.png)'
 
 ### Задание 2
 
@@ -54,9 +54,8 @@
 
     '![push 2](https://github.com/smabramov/my-repository/blob/28b8ea0546f633ca283f6b42baf06c25dae2d3d0/img/push%202.png)'
 
-    'Ссылка''https://github.com/smabramov/my-repository/tree/3617e09107b859e011abeba07e9ad2b253e5ca45'
-
-    '![9](https://github.com/smabramov/my-repository/blob/e1ef525c93e79febddc3e8f336c3e0aebe3cb89f/img/9.png)'   
+    'Ссылка''https://github.com/smabramov/my-repository/commit/3617e09107b859e011abeba07e9ad2b253e5ca45'
+  
 
 ### Задание 3
 
