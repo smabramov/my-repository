@@ -36,7 +36,7 @@
    
    'Ссылка''https://github.com/smabramov/my-repository/tree/aa9291566af2a50251c1ae6c9971154396163fd5'
 
-   '![]()'
+   '![8](https://github.com/smabramov/my-repository/blob/e1ef525c93e79febddc3e8f336c3e0aebe3cb89f/img/8.png)'
 
 ### Задание 2
 
@@ -56,7 +56,7 @@
 
     'Ссылка''https://github.com/smabramov/my-repository/tree/3617e09107b859e011abeba07e9ad2b253e5ca45'
 
-    '![]()'   
+    '![9](https://github.com/smabramov/my-repository/blob/e1ef525c93e79febddc3e8f336c3e0aebe3cb89f/img/9.png)'   
 
 ### Задание 3
 
