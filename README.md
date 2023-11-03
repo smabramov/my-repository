@@ -34,7 +34,9 @@
    
    '![Push](https://github.com/smabramov/my-repository/blob/9263db702c5fb92d332ae9099030f1ce4342a48a/img/Push.png)'
    
-   'Ссылка''https://github.com/smabramov/my-repository/tree/cdd6afba78731d179e5432a77feea11443bed93c'
+   'Ссылка''https://github.com/smabramov/my-repository/tree/aa9291566af2a50251c1ae6c9971154396163fd5'
+
+   '![]()'
 
 ### Задание 2
 
@@ -52,7 +54,9 @@
 
     '![push 2](https://github.com/smabramov/my-repository/blob/28b8ea0546f633ca283f6b42baf06c25dae2d3d0/img/push%202.png)'
 
-    'Ссылка''https://github.com/smabramov/my-repository/tree/3617e09107b859e011abeba07e9ad2b253e5ca45'   
+    'Ссылка''https://github.com/smabramov/my-repository/tree/3617e09107b859e011abeba07e9ad2b253e5ca45'
+
+    '![]()'   
 
 ### Задание 3
 
